@@ -1,4 +1,11 @@
 # kepler-kit-for-raspberry-pi
+
+## Dax Notes
+
+Instructions on how to connect using VSCode
+
+https://www.instructables.com/How-to-Use-VSCode-With-Raspberry-Pi-Pico-W-and-Mic/
+
 This repository is for SunFounder Kepler Kit for Raspberry Pi. you can buy it on [our website](https://www.sunfounder.com/), or search sunfounder in Amazon.
 
 Quick Links:
